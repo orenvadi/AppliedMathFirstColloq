@@ -1,0 +1,24 @@
+For number 36.700:
+Broad Sense - Absolute Error Limit: 0.500
+Broad Sense - Relative Error Limit: 1.362%
+Strict Sense - Absolute Error Limit: 0.050
+Strict Sense - Relative Error Limit: 0.136%
+
+For number 2.489:
+Broad Sense - Absolute Error Limit: 0.500
+Broad Sense - Relative Error Limit: 20.088%
+Strict Sense - Absolute Error Limit: 0.050
+Strict Sense - Relative Error Limit: 2.009%
+
+For number 31.010:
+Broad Sense - Absolute Error Limit: 0.500
+Broad Sense - Relative Error Limit: 1.612%
+Strict Sense - Absolute Error Limit: 0.050
+Strict Sense - Relative Error Limit: 0.161%
+
+For number 0.031:
+Broad Sense - Absolute Error Limit: 0.500
+Broad Sense - Relative Error Limit: 1612.903%
+Strict Sense - Absolute Error Limit: 0.050
+Strict Sense - Relative Error Limit: 161.290%
+

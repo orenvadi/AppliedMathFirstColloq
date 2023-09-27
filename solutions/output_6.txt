@@ -1,0 +1,15 @@
+For value a:
+Value: 193.0000
+Maximum Allowed Relative Error: 0.1000%
+Number of Decimal Places (Strict Sense): 1
+
+For value b:
+Value: 0.7833
+Maximum Allowed Relative Error: 0.1000%
+Number of Decimal Places (Strict Sense): 4
+
+For value c:
+Value: 3.2027
+Maximum Allowed Relative Error: 0.1000%
+Number of Decimal Places (Strict Sense): 3
+

@@ -1,0 +1,40 @@
+For approximate number 1:
+Value: 42753.8000
+Absolute Error: 800.0000
+Relative Error: 1.8712%
+
+For approximate number 2:
+Value: 63.2561
+Absolute Error: 0.0010
+Relative Error: 0.0016%
+
+For approximate number 3:
+Value: 63.2561
+Absolute Error: 0.0020
+Relative Error: 0.0032%
+
+For approximate number 4:
+Value: 42753.8000
+Absolute Error: 100.0000
+Relative Error: 0.2339%
+
+For approximate number 5:
+Value: 2.5300
+Absolute Error: 0.0000
+Relative Error: 0.0004%
+
+For approximate number 6:
+Value: 42153.8000
+Absolute Error: 800.0000
+Relative Error: 1.8978%
+
+For approximate number 7:
+Value: 2.5300
+Absolute Error: 0.0000
+Relative Error: 0.0016%
+
+For approximate number 8:
+Value: 42743.8000
+Absolute Error: 100.0000
+Relative Error: 0.2340%
+

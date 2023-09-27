@@ -1,0 +1,4 @@
+For x = 4.53 with a relative error of 0.0200%:
+Estimated Correct Digits for ln(x): 3
+Estimated Correct Digits for e^x: 1
+Estimated Correct Digits for x^x: 0

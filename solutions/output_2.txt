@@ -1,0 +1,15 @@
+Original Number: 3.009983
+Rounded to 2 Decimals: 3.01
+Rounded to 3 Decimals: 3.010
+Rounded to 4 Decimals: 3.0100
+
+Original Number: 24.005510
+Rounded to 2 Decimals: 24.01
+Rounded to 3 Decimals: 24.006
+Rounded to 4 Decimals: 24.0055
+
+Original Number: 21.161728
+Rounded to 2 Decimals: 21.16
+Rounded to 3 Decimals: 21.162
+Rounded to 4 Decimals: 21.1617
+

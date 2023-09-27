@@ -1,0 +1,45 @@
+For operation а:
+Result: 0.0020
+Absolute Uncertainty: 0.0020
+Relative Uncertainty: 100.0000%
+
+For operation б:
+Result: 12.3400
+Absolute Uncertainty: 12.3400
+Relative Uncertainty: 100.0000%
+
+For operation в:
+Result: 15.1900
+Absolute Uncertainty: 15.1900
+Relative Uncertainty: 100.0000%
+
+For operation г:
+Result: 43.3370
+Absolute Uncertainty: -6.4630
+Relative Uncertainty: -14.9134%
+
+For operation д:
+Result: 40.2000
+Absolute Uncertainty: 40.2000
+Relative Uncertainty: 100.0000%
+
+For operation е:
+Result: 212.6471
+Absolute Uncertainty: 71.9600
+Relative Uncertainty: 33.8401%
+
+For operation ж:
+Result: 24.0630
+Absolute Uncertainty: 24.0630
+Relative Uncertainty: 100.0000%
+
+For operation з:
+Result: -1983.3500
+Absolute Uncertainty: -1983.3500
+Relative Uncertainty: 100.0000%
+
+For operation и:
+Result: 2801.5862
+Absolute Uncertainty: 8121.7000
+Relative Uncertainty: 289.8965%
+

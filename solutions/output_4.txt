@@ -1,0 +1,12 @@
+Original Number: 0.3100
+Rounded to Hundredths: 0.31
+Number of Correct Digits (Strict Sense): 4
+
+Original Number: 3.4950
+Rounded to Hundredths: 3.50
+Number of Correct Digits (Strict Sense): 4
+
+Original Number: 24.3790
+Rounded to Hundredths: 24.38
+Number of Correct Digits (Strict Sense): 5
+

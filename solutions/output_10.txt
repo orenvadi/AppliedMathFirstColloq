@@ -1,0 +1,4 @@
+Result for a): 2.9277
+Result for b): 22.1011
+Result for c): 0.1158
+Result for d): 11.2779
